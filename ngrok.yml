@@ -1,0 +1,8 @@
+authtoken: top-secret
+json_resolver_url: ""
+dns_resolver_ips: []
+region: eu
+tunnels:
+  my-tunnel:
+    proto: tcp
+    addr: 22
